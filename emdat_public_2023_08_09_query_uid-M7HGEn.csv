@@ -1,3 +1,9 @@
+Source:,"EM-DAT, CRED / UCLouvain, Brussels, Belgium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,www.emdat.be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Version:,2023-08-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+File creation:,"Wed, 09 Aug 2023 22:58:56 CEST",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Table type:,Custom request,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# of records:,140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Dis No,Year,Seq,Glide,Disaster Group,Disaster Subgroup,Disaster Type,Disaster Subtype,Disaster Subsubtype,Event Name,Country,ISO,Region,Continent,Location,Origin,Associated Dis,Associated Dis2,OFDA Response,Appeal,Declaration,AID Contribution ('000 US$),Dis Mag Value,Dis Mag Scale,Latitude,Longitude,Local Time,River Basin,Start Year,Start Month,Start Day,End Year,End Month,End Day,Total Deaths,No Injured,No Affected,No Homeless,Total Affected,Reconstruction Costs ('000 US$),"Reconstruction Costs, Adjusted ('000 US$)",Insured Damages ('000 US$),"Insured Damages, Adjusted ('000 US$)",Total Damages ('000 US$),"Total Damages, Adjusted ('000 US$)",CPI,Adm Level,Admin1 Code,Admin2 Code,Geo Locations
 1950-0012-CAN,1950,0012,,Natural,Meteorological,Storm,Convective storm,Tornado,,Canada,CAN,Northern America,Americas,Regina,,,,,No,No,,,Kph,,,,,1950,11,,1950,11,,,,,,,,,,,,,8.2395521104268,,,,
 1950-0017-CAN,1950,0017,,Natural,Hydrological,Flood,,,,Canada,CAN,Northern America,Americas,"Winnipeg, Manitoba",,,,,,,,,Km2,,,,,1950,5,5,1950,5,5,1,,107000,,107000,,,,,100000,1213658,8.2395521104268,,,,
